@@ -1,0 +1,23 @@
+body {
+	display: flex;
+	justify-content: center;
+}
+
+.mainContainer {
+	width: 50%;
+	display: flex;
+	
+}
+
+.theCat {
+	width: 60%;
+	flex-wrap: nowrap;
+}
+
+.counter {
+	padding-left: 5%;
+}
+
+.catName {
+	padding-right: 5px;
+}
