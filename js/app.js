@@ -19,5 +19,5 @@ function countClicks(){
 document.getElementsByClassName("theCat")[0].addEventListener("click", countClicks);
 document.getElementsByClassName("theCat")[1].addEventListener("click", countClicks);
 
-document.getElementsByClassName("catName")[0].innerHTML = "Murchik";
-document.getElementsByClassName("catName")[1].innerHTML = "Murchik's clone ";
+document.getElementsByClassName("catName")[0].innerHTML = "Jonny";
+document.getElementsByClassName("catName")[1].innerHTML = "Franky";
